@@ -9,7 +9,13 @@ A comprehensive Power BI dashboard analyzing the demographics, salaries, technic
 ## 📁 Dashboard Preview  
 
 <p align="center">
-  <img src="PowerBI_Data_Professional_Survey.png" width="900">
+  <img src="powerbi-data-professional-survey/Power BI - Final Project Dashboard Portfolio png.png" width="900">
+</p>
+
+<p align="center">
+  <a href="https://app.powerbi.com/links/EYTrzDJ1zq?ctid=71ca3ffe-8dd0-4a98-87ee-271f1e7e7f65&pbi_source=linkShare" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20View%20and%20interact%20with%20the%20dashboard-0078D4?style=for-the-badge&logo=powerbi&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -47,14 +53,6 @@ The goal is to provide a clean, interactive view of workforce trends in the data
 - Work–life balance satisfaction: **5.74 / 10**
 
 These insights help identify trends in compensation, skills, and job satisfaction across the data industry.
-
----
-
-<p align="center">
-  <a href="https://app.powerbi.com/links/EYTrzDJ1zq?ctid=71ca3ffe-8dd0-4a98-87ee-271f1e7e7f65&pbi_source=linkShare" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20View%20and%20interact%20with%20the%20dashboard-0078D4?style=for-the-badge&logo=powerbi&logoColor=white">
-  </a>
-</p>
 
 ---
 
