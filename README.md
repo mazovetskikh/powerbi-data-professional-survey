@@ -9,7 +9,7 @@ A comprehensive Power BI dashboard analyzing the demographics, salaries, technic
 ## 📁 Dashboard Preview  
 
 <p align="center">
-  <img src="powerbi-data-professional-survey/Power BI - Final Project Dashboard Portfolio png.png" width="900">
+  <powerbi-data-professional-survey/Power BI - Final Project Dashboard Portfolio png" width="900">
 </p>
 
 <p align="center">
