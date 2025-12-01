@@ -50,15 +50,11 @@ These insights help identify trends in compensation, skills, and job satisfactio
 
 ---
 
-## ▶️ **View and interact with the dashboard**
-
 <p align="center">
   <a href="https://app.powerbi.com/links/EYTrzDJ1zq?ctid=71ca3ffe-8dd0-4a98-87ee-271f1e7e7f65&pbi_source=linkShare" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Open%20Interactive%20Dashboard-0078D4?style=for-the-badge&logo=powerbi&logoColor=white">
+    <img src="https://img.shields.io/badge/▶️%20View%20and%20interact%20with%20the%20dashboard-0078D4?style=for-the-badge&logo=powerbi&logoColor=white">
   </a>
 </p>
-
-*https://app.powerbi.com/links/EYTrzDJ1zq?ctid=71ca3ffe-8dd0-4a98-87ee-271f1e7e7f65&pbi_source=linkShare*
 
 ---
 
