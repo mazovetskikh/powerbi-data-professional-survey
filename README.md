@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard analyzing the demographics, salaries, technic
 
 ---
 
-## 📁 Dashboard Preview  
+<h2 align="center"> Preview</h2>
 
 <p align="center">
   <img src="Power BI - Final Project Dashboard Portfolio png.png" 
