@@ -25,11 +25,11 @@ A comprehensive Power BI dashboard analyzing the demographics, salaries, technic
 ## 🎯 Project Overview  
 This dashboard explores key insights about individuals working in the data industry, including:
 
-- 👥 **Demographics** (age, gender, country)
-- 💼 **Job roles & average salaries**
-- 💻 **Favorite programming languages**
-- 😊 **Happiness with salary & work-life balance**
-- 🌍 **Global distribution of data professionals**
+- **Demographics** (age, gender, country)
+- **Job roles & average salaries**
+- **Favorite programming languages**
+- **Happiness with salary & work-life balance**
+- **Global distribution of data professionals**
 
 The goal is to provide a clean, interactive view of workforce trends in the data field.
 
@@ -37,20 +37,20 @@ The goal is to provide a clean, interactive view of workforce trends in the data
 
 ## 🔑 Key Insights  
 
-### 💰 **Salary by Job Title**
+### **Salary by Job Title:**
 - Data Scientists earn the highest average salary (~$93K)
 - Data Engineers and Data Architects follow with strong compensation ranges
 - Students/learners earn the least, as expected
 
-### 🧠 **Programming Language Preferences**
+### **Programming Language Preferences:**
 - Python is the dominant choice with 255+ votes  
 - R, SQL, C/C++, and Java have significantly fewer supporters
 
-### 🌍 **Country Representation**
+### **Country Representation:**
 - USA has the largest concentration of respondents  
 - India, UK, Canada also show strong representation  
 
-### 😊 **Happiness Scores**
+### **Happiness Scores:**
 - Salary satisfaction: **4.27 / 10**
 - Work–life balance satisfaction: **5.74 / 10**
 
