@@ -59,9 +59,10 @@ These insights help identify trends in compensation, skills, and job satisfactio
 ---
 
 ## 🛠 Tools & Techniques  
-- **Power BI Desktop**
-- **Data modeling & transformation**
-- **DAX for KPI calculations**
+
+- Power BI Desktop
+- Data modeling & transformation
+- DAX for KPI calculations
 - Custom visuals & storytelling layout
 - Dashboard design best practices (clarity, spacing, accessibility)
 
